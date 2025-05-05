@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , My name is Jaimin parmar.<br>👨‍💻 "Computer Engineering Enthusiast | Exploring the World of Software and Hardware"<br>📍 Studied in CHARUSAT
+Hi , My name is Jaimin Parmar.<br>👨‍💻 "Computer Engineering Enthusiast | Exploring the World of Software and Hardware"<br>📍 Studied in CHARUSAT
 
 
 # 💻 Tech Stack:
