@@ -59,9 +59,6 @@
 <h2 align="center">🏗️ Featured Projects</h2>
 <div align="center">
 
-<h2 align="center">🏗️ Featured Projects</h2>
-<div align="center">
-
 | 🚗 Commuto — Real-Time Ride Sharing Platform |
 |---|
 | **Tech:** React · Node.js · MongoDB · Socket.io · Google Maps API |
