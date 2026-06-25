@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaiminsinh Parmar</h1>
 <h3 align="center">🤖 Agentic AI Developer | Building autonomous LLM systems with LangChain, LangGraph & RAG 🤖</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parmarjaimin3884&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
 <br>
 <table style="border: none;">
   <tr>
@@ -53,13 +56,28 @@
 
 ---
 
+<h2 align="center">🏗️ Featured Projects</h2>
+<div align="center">
+
+<h2 align="center">🏗️ Featured Projects</h2>
+<div align="center">
+
+| 🚗 Commuto — Real-Time Ride Sharing Platform |
+|---|
+| **Tech:** React · Node.js · MongoDB · Socket.io · Google Maps API |
+| • Developed a full-stack ride sharing system with real-time seat tracking<br>• Integrated Google Maps live location tracking<br>• Built OTP ride verification system<br>• Designed responsive UI using Tailwind CSS |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+
+</div>
+
+---
+
 <h2 align="center">💡 Programming Wisdom</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
-
 
 <div align="center">
   <h2>🔥 GitHub Streak 🔥</h2>
